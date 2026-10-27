@@ -4,3 +4,5 @@ kaffe
 kaese
 schinken
 leberkaese
+chips
+
