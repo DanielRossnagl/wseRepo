@@ -1,2 +1,6 @@
 aepfel
 birnen
+kaffe
+kaese
+schinken
+leberkaese
