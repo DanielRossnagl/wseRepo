@@ -2,6 +2,7 @@ kekse
 orangen
 aepfel
 bananen
+Brot
 birnen
 kaffe
 kaese
@@ -11,3 +12,4 @@ chips
 tomaten
 gurkerl
 paprika
+baguette
