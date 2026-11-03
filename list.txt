@@ -6,4 +6,6 @@ kaese
 schinken
 leberkaese
 chips
-
+tomaten
+gurkerl
+paprika
