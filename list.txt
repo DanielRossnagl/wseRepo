@@ -1,5 +1,6 @@
 orangen
 aepfel
+bananen
 birnen
 kaffe
 kaese
